@@ -1,4 +1,4 @@
-#Geometric Algorithms
+# Geometric Algorithms
 
 Implementations of a geometric algorithms with visualizations and reports for AGH UST geometric algorithms course.
 Repository also contains a project with implementation and comparison of KDTree and QuadTree data structures with their comparison.
