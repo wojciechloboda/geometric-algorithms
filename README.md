@@ -1,5 +1,6 @@
 Implementations of a geometric algorithms with visualizations and reports for AGH UST geometric algorithms course.
 Repository also contains a project with implementation and comparison of KDTree and QuadTree data structures with their comparison.
+
 Project creators: Wojciech Łoboda, Krzysztod Pęczek (https://github.com/out-somniac)
 
 Sweep-line algorithm for finding all segment intesections step visualization:
